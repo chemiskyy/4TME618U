@@ -1,0 +1,16 @@
+name: 3mah
+channels:
+  - conda-forge
+  - cadquery
+  - set3MAH
+dependencies:
+  - python=3.9
+  - ipykernel
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - pandas-datareader>=0.8.1
+  - microgen
+  - simcoon
+  - fedoo
