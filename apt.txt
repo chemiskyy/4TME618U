@@ -1,6 +1,6 @@
 dvipng
 ghostscript
-texlive-core
+texlive
 texlive-fonts-recommended
 texlive-generic-recommended
 texlive-latex-base
