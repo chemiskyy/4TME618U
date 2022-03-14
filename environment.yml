@@ -4,12 +4,16 @@ channels:
   - set3MAH
 dependencies:
   - python=3.9
+  - pip
+  - setuptools
   - texlive-core
   - ipykernel
+  - jupyterlab
   - scipy
   - numpy
   - matplotlib
   - pandas
   - pandas-datareader>=0.8.1
-  - jupyter_latex_envs
   - simcoon
+  - pip:
+    - jupyterlab_latex
