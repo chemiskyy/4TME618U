@@ -18,9 +18,9 @@
 1
 #Dn_init 1.
 #Dn_mini 1.
-#Dn_inc 0.001
+#Dn_inc 0.1
 #time
-300
+0.001
 #Consigne
 E 0.02
 S 0 S 0
@@ -31,12 +31,12 @@ T 293.15
 #Mode
 1
 #Dn_init 1.
-#Dn_mini 1.
-#Dn_inc 0.001
+#Dn_mini 0.01
+#Dn_inc 0.01
 #time
-300
+30
 #Consigne
-E -0.04
+E 0.02
 S 0 S 0
 S 0 S 0 S 0
 #Consigne_T
